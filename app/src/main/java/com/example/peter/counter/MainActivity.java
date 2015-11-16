@@ -4,7 +4,9 @@ Tested on:
 Samsung GT-I9100 API 16
 Samsung SM-N9005 API 21
 
- */
+*/
+
+//Pulled and edited
 
 package com.example.peter.counter;
 
