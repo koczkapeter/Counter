@@ -1,8 +1,8 @@
 /*
 
 Tested on:
-GT-I9100 API 16
-SM-N9005 API 21
+Samsung GT-I9100 API 16
+Samsung SM-N9005 API 21
 
  */
 
